@@ -23,6 +23,7 @@ public void getmethod() {
 	System.out.println(response);
 	String resp = response.asPrettyString();
 	System.out.println(resp);
+	System.out.println("Jenkins Remote Trigger");
 }
 
 }
